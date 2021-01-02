@@ -1,0 +1,130 @@
+[
+  {
+    "id": 1,
+    "image": "https://gitlabcommitvirtual.com/wp-content/uploads/2020/06/person-dummy-e1553259379744.jpg",
+    "name": "Mary Kate",
+    "department": "Sales",
+    "email": "marykate@email.com",
+    "phone": "703-234-3333"
+  },
+  {
+    "id": 2,
+    "image": "https://gitlabcommitvirtual.com/wp-content/uploads/2020/06/person-dummy-e1553259379744.jpg",
+    "name": "John Shou",
+    "department": "Engineering",
+    "email": "John@email.com",
+    "phone": "503-234-1123"
+  },
+  {
+    "id": 3,
+    "image": "https://gitlabcommitvirtual.com/wp-content/uploads/2020/06/person-dummy-e1553259379744.jpg",
+    "name": "Emma Wason",
+    "department": "Design",
+    "email": "emma@email.com",
+    "phone": "394-342-4422"
+  },
+  {
+    "id": 4,
+    "image": "https://gitlabcommitvirtual.com/wp-content/uploads/2020/06/person-dummy-e1553259379744.jpg",
+    "name": "Tyler Husband",
+    "department": "Engineering",
+    "email": "tyler@email.com",
+    "phone": "333-234-2333"
+  },
+  {
+    "id": 5,
+    "image": "https://gitlabcommitvirtual.com/wp-content/uploads/2020/06/person-dummy-e1553259379744.jpg",
+    "name": "Mike Docett",
+    "department": "Marketing",
+    "email": "mike@email.com",
+    "phone": "704-345-3453"
+  },
+  {
+    "id": 6,
+    "image": "https://gitlabcommitvirtual.com/wp-content/uploads/2020/06/person-dummy-e1553259379744.jpg",
+    "name": "Ridden Zhang",
+    "department": "Management",
+    "email": "ridden@email.com",
+    "phone": "495-345-3453"
+  },
+  {
+    "id": 7,
+    "image": "https://gitlabcommitvirtual.com/wp-content/uploads/2020/06/person-dummy-e1553259379744.jpg",
+    "name": "Liz Chen",
+    "department": "Management",
+    "email": "Liz@email.com",
+    "phone": "703-234-2342"
+  },
+  {
+    "id": 8,
+    "image": "https://gitlabcommitvirtual.com/wp-content/uploads/2020/06/person-dummy-e1553259379744.jpg",
+    "name": "Melody Chen",
+    "department": "Marketing",
+    "email": "melody@email.com",
+    "phone": "500-234-2342"
+  },
+  {
+    "id": 9,
+    "image": "https://gitlabcommitvirtual.com/wp-content/uploads/2020/06/person-dummy-e1553259379744.jpg",
+    "name": "Jessic Wang",
+    "department": "Sales",
+    "email": "jessica@email.com",
+    "phone": "503-234-2342"
+  },
+  {
+    "id": 10,
+    "image": "https://gitlabcommitvirtual.com/wp-content/uploads/2020/06/person-dummy-e1553259379744.jpg",
+    "name": "Lily baker",
+    "department": "Engineering",
+    "email": "lily@email.com",
+    "phone": "503-234-2342"
+  },
+  {
+    "id": 11,
+    "image": "https://gitlabcommitvirtual.com/wp-content/uploads/2020/06/person-dummy-e1553259379744.jpg",
+    "name": "May Lian",
+    "department": "Admin",
+    "email": "may@email.com",
+    "phone": "703-234-2342"
+  },
+  {
+    "id": 12,
+    "image": "https://gitlabcommitvirtual.com/wp-content/uploads/2020/06/person-dummy-e1553259379744.jpg",
+    "name": "Chunk Rober",
+    "department": "Design",
+    "email": "chunk@email.com",
+    "phone": "503-234-4444"
+  },
+  {
+    "id": 13,
+    "image": "https://gitlabcommitvirtual.com/wp-content/uploads/2020/06/person-dummy-e1553259379744.jpg",
+    "name": "Danna Zhang",
+    "department": "Engineering",
+    "email": "danna@email.com",
+    "phone": "503-234-2342"
+  },
+  {
+    "id": 14,
+    "image": "https://gitlabcommitvirtual.com/wp-content/uploads/2020/06/person-dummy-e1553259379744.jpg",
+    "name": "Eawadro Rasmy",
+    "department": "Engineering",
+    "email": "mike@email.com",
+    "phone": "703-234-2222"
+  },
+  {
+    "id": 15,
+    "image": "https://gitlabcommitvirtual.com/wp-content/uploads/2020/06/person-dummy-e1553259379744.jpg",
+    "name": "Frank Yang",
+    "department": "Management",
+    "email": "frank@email.com",
+    "phone": "703-234-2222"
+  },
+  {
+    "id": 16,
+    "image": "https://gitlabcommitvirtual.com/wp-content/uploads/2020/06/person-dummy-e1553259379744.jpg",
+    "name": "Gabbi Tonny",
+    "department": "Sales",
+    "email": "gabbi@email.com",
+    "phone": "703-234-2342"
+  }
+]
